@@ -1,0 +1,22 @@
+First 5 rows of dataset:
+   Age  BloodPressure  Cholesterol  Target
+0   68             98          262       1
+1   58            177          250       0
+2   44             90          262       0
+3   72             97          230       0
+4   37            177          262       1
+
+Missing values:
+Age              0
+BloodPressure    0
+Cholesterol      0
+Target           0
+dtype: int64
+
+==============================
+RESULT
+==============================
+Logistic Regression Accuracy: 0.55
+SVM Accuracy: 0.5
+
+Task Completed Successfully!
